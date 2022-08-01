@@ -1,55 +1,21 @@
 # PensamentoCompucional-1B
 repositorio para compartilhar arquivos de pensamento computacional
-eduardo augusto N8                        
+
+
+eduardo augusto N8 
+
 Gabriel Pereira N15
 
- **o poema do cume**
+**batatinha**
+
+Batatinha quando nasce espalha a rama pelo chão.
+menininha quando dorme põe a mão no coração.
+Sou pequenininha do tamanho de um botão,
+carrego papai no bolso e mamãe no coração
+O bolso furou e o papai caiu no chão.
+Mamãe que é mais querida ficou no coração.
 
 
 
-  No alto daquele cume
-Plantei uma roseira
-O vento no cume bate
-A rosa no cume cheira
 
-Quando vem a chuva fina
-Salpicos no cume caem
-Formigas no cume entram
-Abelhas do cume saem
-
-Quando cai a chuva grossa
-A água do cume desce
-O barro do cume escorre
-O mato no cume cresce
-
-Então, quando cessa a chuva
-No cume volta a alegria
-Pois torna a brilhar de novo
-O Sol que no cume ardia
-
-No alto daquele cume
-Plantei uma roseira
-O vento no cume bate
-A rosa no cume cheira
-
-Quando vem a chuva fina
-Salpicos no cume caem
-Formigas no cume entram
-Abelhas do cume saem
-
-Quando cai a chuva grossa
-A água do cume desce
-O barro do cume escorre
-O mato no cume cresce
-
-Então, quando cessa a chuva
-No cume volta a alegria
-Pois torna a brilhar de novo
-O Sol que no cume ardia
-
-Pois torna a brilhar de novo
-O Sol que no cume ardia
-Pois torna a brilhar de novo
-O Sol que no cume ardia
-
-
+![batatinha quando nasce](https://i.pinimg.com/736x/bf/57/6a/bf576a8b45668b408d04c5729c528c4b--potato-kawaii.jpg)
